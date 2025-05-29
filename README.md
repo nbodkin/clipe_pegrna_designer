@@ -12,9 +12,10 @@ CliPE pegRNA designer is a tool designed to facilitate the construction of pegRN
 
 ## Usage
 
-CliPE pegRNA designer is available for use at [design.clipe-mave.org](https://design.clipe-mave.org). Additional information on usage can be found on the CliPE homepage [here](https://home.clipe-mave.org) or in the manuscript [here]().
+CliPE pegRNA designer is available for use at [design.clipe-mave.org](https://design.clipe-mave.org). Additional information on usage can be found on the CliPE homepage [here](https://home.clipe-mave.org) or in the manuscript [here](https://star-protocols.cell.com/protocols/4231).
 
-If you have used our design tools for your prime editing experiments, please cite our manuscript as follows: ____
+If you have used our design tools for your prime editing experiments, please cite our manuscript as follows:
+> Biar CG, Bodkin N, Carvill GL, Calhoun JD. Protocol to perform multiplexed assays of variant effect using curated loci prime editing. STAR Protoc. 2025 May 25;6(2):103851. doi: 10.1016/j.xpro.2025.103851. PMID: 40418630.
 
 ### Running Locally
 If you would like to run CliPE pegRNA designer locally, you can pull our docker image from Github and run with the following instructions. This should take no longer than 5 minutes to setup
